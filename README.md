@@ -58,11 +58,13 @@ This classic problem explores:
 
 ### 🎯 Goal
 Minimize:
+
 $$
 F(x, y) = x^2 + y^2 \quad \text{subject to} \quad xy = -16
 $$
 
 Substitute to reduce to one variable:
+
 $$
 S(x) = x^2 + \frac{256}{x^2}
 $$
